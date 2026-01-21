@@ -2,10 +2,10 @@
 
 This repository contains the **raw data inventory and field survey records** supporting the findings of the research article titled:
 
-> **[这里填你的论文题目]** > *Submitted to [这里填期刊名字]*
+> **Seismic Performance and Damage Assessment of Transportation Systems During the 2025 Myanmar Earthquake (M7.9)** > *Submitted to EARTHQUAKE SPECTRA*
 
 ## 📅 Project Overview
-This dataset was developed based on field observations from the **China-Myanmar Earthquake Disaster Assessment Team** following the M7.9 Myanmar earthquake on March 28, 2025. It specifically focuses on the damage characteristics of the transportation system, including **18 severely damaged bridges** (7 highway and 11 railway bridges).
+This dataset was developed based on field observations from the **China-Myanmar Earthquake Disaster Assessment Team** following the M7.9 Myanmar earthquake on March 28, 2025. It specifically focuses on the damage characteristics of the transportation system.
 
 The study analyzes failure mechanisms (girder unseating, bearing dislocation, pier failure, etc.) and correlates observed damage with seismic intensity measures derived from simulated ground motion fields.
 
